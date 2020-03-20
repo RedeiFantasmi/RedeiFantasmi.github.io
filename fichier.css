@@ -1,0 +1,259 @@
+.lightgreybackground
+{
+    background-color : lightgrey
+}
+
+.lightbluebackground
+{
+    background-color : lightblue
+}
+
+.centre
+{
+    text-align: center;
+}
+
+.Titre
+{
+    font-family : "Arial";
+    font-size : 60px ;
+    text-align : center ;
+    margin-top : 0%;
+    margin-bottom: 30px;
+}
+
+.imgaccueil
+{
+    height: 350px ;
+    width: 350px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    opacity: 50%;
+}
+
+.imgaccueil2
+{
+    height: 350px ;
+    width: 350px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    opacity: 50%;
+}
+
+.Titre2
+{
+    font-family : "Arial";
+    font-size : 40px ;
+    text-align : center ;
+    margin: 0px 100px 5px 0px;
+    text-decoration: underline;
+}
+
+.Titre2dr
+{
+    font-family : "Arial";
+    font-size : 40px ;
+    text-align : center ;
+    margin: 0px 0px 5px 100px;
+    text-decoration: underline;
+}
+
+.zoom 
+{
+    transition: transform .4s;
+}
+  
+.zoom:hover 
+{
+    transform: scale(1.05);
+    opacity: 100%;
+}
+
+.imgronde
+{
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:90px;
+    height:90px;
+}
+
+.texte
+{
+    font-family: "Arial";
+    font-size : 20px;
+}
+
+#barre_accueil
+{
+    position: fixed;
+    bottom : 9px;
+    max-height: 32px;
+    max-width: 96px;
+    text-align: center;
+    left : 50%;
+    margin-left: -16px;
+    opacity: 40%;
+    background-color: lightsteelblue;
+    transition: transform .2s;
+}
+
+#barre
+{
+    position: fixed;
+    bottom : 9px;
+    max-height: 32px;
+    max-width: 96px;
+    text-align: center;
+    left : 50%;
+    margin-left: -48px;
+    opacity: 40%;
+    background-color: lightsteelblue;
+    transition: transform .2s;
+}
+
+#barre_bonus
+{
+    position: fixed;
+    bottom : 9px;
+    max-height: 32px;
+    max-width: 96px;
+    text-align: center;
+    left : 50%;
+    margin-left: -32px;
+    opacity: 40%;
+    background-color: lightsteelblue;
+    transition: transform .2s;
+}
+
+.fav 
+{
+    background-color:lightsteelblue;
+}
+
+#barre_accueil:hover
+{
+    transform: scale(1.4);
+    opacity: 100%;
+}
+
+#barre:hover
+{
+    transform: scale(1.4);
+    opacity: 100%;
+}
+
+#barre_bonus:hover
+{
+    transform: scale(1.4);
+    opacity: 100%;
+}
+
+.Titre3
+{
+    font-family: "Arial";
+    font-size: 30px;
+    text-align: center;
+}
+
+.zoom3
+{
+    transition: transform .2s;
+    float: left;
+    max-width: 32px;
+    max-height: 32px;
+}
+
+.zoom3:hover
+{
+    transform: scale(1.1);
+    opacity: 100%;
+}
+
+.légende
+{
+    margin-top: 0%;
+    font-style: italic;
+    font-family: Arial;
+}
+
+#carte
+{
+    text-align: center;
+}
+
+.titre_puce
+{
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.fin_jour
+{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial;
+    margin-top: 10px;
+}
+
+.introduction
+{
+    font-size: 20px;
+    font-style: oblique;
+}
+
+#canal
+{
+    text-align: center;
+}
+
+#Epidaure
+{
+    text-align: center;
+}
+
+#Porte
+{
+    text-align: center;
+}
+
+#Pierre
+{
+    text-align: center;
+}
+
+#Cathédrale
+{
+    text-align: center;
+}
+
+#Bateau
+{
+    text-align: center;
+}
+
+#Apollon
+{
+    text-align: center;
+}
+
+#Osios
+{
+    text-align: center;
+}
+
+#musée
+{
+    text-align: center;
+}
+
+#Acropole
+{
+    text-align: center;
+}
+
+#Stade
+{
+    text-align: center;
+}
